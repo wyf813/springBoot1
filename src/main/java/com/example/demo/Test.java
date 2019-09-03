@@ -9,4 +9,8 @@ public class Test {
      public void testSubmit(){
          System.out.println("This is my First Submit");
      }
+
+     public void testSubmit2(){
+         System.out.println("This is New Submit");
+     }
 }
