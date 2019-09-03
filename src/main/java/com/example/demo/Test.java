@@ -36,8 +36,10 @@ public class Test {
         System.out.println("This is 1048713166 Submit4");
     }
 
-    public void testSubmit10(){
+    public void testSubmit10() {
         System.out.println("This is testSubmit7!");
     }
-
+    public void testSubmit9(){
+        System.out.println("This is 1048713166 Submit5");
+    }
 }
