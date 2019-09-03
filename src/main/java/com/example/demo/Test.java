@@ -18,4 +18,8 @@ public class Test {
          System.out.println("This is 1048713166 Submit");
      }
 
+     public void testSubmit4(){
+         System.out.println("This is 1048713166 Submit2");
+     }
+
 }
