@@ -15,7 +15,7 @@ public class Test {
      }
 
      public void testSubmit3(){
-         System.out.println("This is 1048713166 Submit");
+         System.out.println("This is 1048713166 Submit1");
      }
 
     public void testSubmit4(){
@@ -24,6 +24,9 @@ public class Test {
 
      public void testSubmt5(){
          System.out.println("This is Submit5!");
+     }
+     public void testSubmit7(){
+         System.out.println("This is 1048713166 Submit3");
      }
 
 }
