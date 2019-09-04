@@ -46,4 +46,20 @@ public class Test {
     public void testSubmit11(){
         System.out.println("This is 1048713166 Submit6");
     }
+
+    public void testSubmit12() {
+        System.out.println("This is testSubmit8!");
+    }
+    public void testSubmit13() {
+        System.out.println("This is testSubmit9!");
+    }
+
+    public void testSubmit14() {
+        System.out.println("This is test Selection!");
+    }
+
+    public void testSubmit15() {
+        System.out.println("This is test Selection1!");
+    }
+
 }
