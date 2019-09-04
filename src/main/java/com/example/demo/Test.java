@@ -57,4 +57,8 @@ public class Test {
     public void testSubmit14() {
         System.out.println("This is test Selection!");
     }
+
+    public void testSubmit15() {
+        System.out.println("This is test Selection1!");
+    }
 }
