@@ -50,4 +50,7 @@ public class Test {
     public void testSubmit12() {
         System.out.println("This is testSubmit8!");
     }
+    public void testSubmit13() {
+        System.out.println("This is testSubmit9!");
+    }
 }
