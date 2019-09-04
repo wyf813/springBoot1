@@ -34,6 +34,7 @@ public class Test {
 
     public void testSubmit8(){
         System.out.println("This is 1048713166 Submit4");
+        System.out.println("This is Test Conflict");
     }
 
     public void testSubmit10() {
@@ -45,5 +46,8 @@ public class Test {
 
     public void testSubmit11(){
         System.out.println("This is 1048713166 Submit6");
+    }
+    public void testSubmit12() {
+        System.out.println("This is testSubmit8!");
     }
 }
